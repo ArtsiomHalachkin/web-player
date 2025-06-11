@@ -1,4 +1,4 @@
-# Web player (Vue + Vutify)
+# Web player (TypeScript + Vue + Vuetify)
 Web-player application built for my EBC-WAF - Web Applications: Frontend course
 
 ## What i learned
