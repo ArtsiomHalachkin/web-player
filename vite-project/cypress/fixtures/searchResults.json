@@ -1,0 +1,19 @@
+{
+  "tracks": [
+    {
+      "id": "track1",
+      "name": "Test Song",
+      "uri": "spotify:track:track1",
+      "album": { "images": [{ "url": "http://example.com/image.jpg" }] },
+      "artists": [{ "id": "artist1", "name": "Test Artist" }]
+    }
+  ],
+  "albums": [
+    {
+      "id": "album1",
+      "name": "Test Album",
+      "images": [{ "url": "http://example.com/album.jpg" }],
+      "artists": [{ "id": "artist1", "name": "Test Artist" }]
+    }
+  ]
+}
